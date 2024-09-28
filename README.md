@@ -4,6 +4,6 @@
 
 <h3 align="center">
   <a href="https://github.com/wagnerlimanet">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Geovane+Maia;Sou+Desenvolvedor,&center=true&width=780&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Geovane+Maia;Sou+Desenvolvedor&center=true&width=780&height=45">
   </a>
 </h3>
