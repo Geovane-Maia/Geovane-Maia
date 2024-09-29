@@ -22,8 +22,16 @@
   <summary>⚡ Atividades Recentes</summary>
   <br/>
   <a href="https://github.com/wagnerlimanet/github-readme-activity-graph">
-	  <img alt="Geovane Maia Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=geovane-maia&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+	  <img alt="Geovane Maia Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Geovane-Maia&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   <br/>
 </details>
+
+<p align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
+
 
