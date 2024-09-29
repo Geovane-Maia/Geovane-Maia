@@ -17,5 +17,13 @@
 #### Repositório
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github&logoColor=14BF96)
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+
+<details>
+  <summary>⚡ Atividades Recentes</summary>
+  <br/>
+  <a href="https://github.com/wagnerlimanet/github-readme-activity-graph">
+	  <img alt="Wagner Lima Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=geovane-maia&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
+  <br/>
+</details>
+
