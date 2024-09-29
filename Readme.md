@@ -22,7 +22,7 @@
   <summary>⚡ Atividades Recentes</summary>
   <br/>
   <a href="https://github.com/wagnerlimanet/github-readme-activity-graph">
-	  <img alt="Wagner Lima Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=geovane-maia&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+	  <img alt="Geovane Maia Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=geovane-maia&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   <br/>
 </details>
