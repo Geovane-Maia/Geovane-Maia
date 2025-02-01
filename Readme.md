@@ -16,6 +16,15 @@
 
 ###
 
+## 📚 Banco de Dados
+
+<div style="display: flex; flex-wrap: wrap; gap: 20 px;">
+  <img align="center" alt="SQL Server" height="50" width="50" src="icons/sqlserver.svg"/>
+  <img align="center" alt="Firebase" height="50" width="50" src="icons/firebird.svg"/>
+  <img align="center" alt="MySQL" height="50" width="50" src="icons/mysql.svg"/>
+  <img align="center" alt="PostgreSQL" height="50" width="50" src="icons/postgresql.svg"/>
+</div>
+
 <div align="left">
     <a href = "mailto:geovanemaia.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/geovane-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
