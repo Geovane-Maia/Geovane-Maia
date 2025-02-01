@@ -23,6 +23,7 @@
   <img align="center" alt="Firebase" height="50" width="50" src="icons/firebird.svg"/>
   <img align="center" alt="MySQL" height="50" width="50" src="icons/mysql.svg"/>
 </div>
+##
 
 <div align="left">
     <a href = "mailto:geovanemaia.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
